@@ -1,0 +1,4 @@
+C:\Users\diego\source\repos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.AssemblyInfo.cs
+C:\Users\diego\source\repos\DIOBank\DIOBank\obj\Debug\netcoreapp3.1\DIOBank.csproj.CoreCompileInputs.cache
